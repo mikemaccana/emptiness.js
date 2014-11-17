@@ -7,8 +7,8 @@ requirejs([
 	"vendor/ractive",
 	"vendor/agave",
 	"vendor/polyfills",
-	"text!/templates/atemplate.mustache",
-	"json!/json/somedata.json",
+	"text!../templates/atemplate.mustache",
+	"json!../json/somedata.json",
 ], function(Ractive, agave, unused, aTemplate, someData) {
 
 	agave.enable('av');
