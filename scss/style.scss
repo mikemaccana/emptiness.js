@@ -1,0 +1,10 @@
+$spacing: 24px;
+
+*, *:before, *:after {
+	/* Ensure padding is inside boxes. See http://paulirish.com/2012/box-sizing-border-box-ftw */
+	box-sizing: border-box;
+}
+
+body {
+	font-family: "Lato", sand-serif;
+}

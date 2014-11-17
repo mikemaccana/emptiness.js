@@ -1,0 +1,12 @@
+{
+    "welcome": "A sample, client-only web app.",
+    "features": [
+        "A full skeleton set of js, images, css etc folders, editor config files, package.json and npm shrinkwrap, README.md, etc.",
+        "SCSS, with live reloading, autoprefixer, a nice web font and border-box",
+        "RequireJS, with the JSON and text plugins (used to load templates)",
+        "Live data binding, via the incredibly simple ractive.js",
+        "Common polyfills for vanilla JS",
+        "Useful inbuilts, provided by agave.js, loaded with the 'av' prefix.",
+        "A small local server provded by 'gulp'"
+    ]
+}
