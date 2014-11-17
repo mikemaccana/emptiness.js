@@ -1,5 +1,5 @@
 {
-    "welcome": "A sample, client-only web app.",
+    "welcome": "A blank client-side web app with all the good things.",
     "features": [
         "A full skeleton set of js, images, css etc folders, editor config files, package.json and npm shrinkwrap, README.md, etc.",
         "SCSS, with live reloading, autoprefixer, a nice web font and border-box",
@@ -7,6 +7,6 @@
         "Live data binding, via the incredibly simple ractive.js",
         "Common polyfills for vanilla JS",
         "Useful inbuilts, provided by agave.js, loaded with the 'av' prefix.",
-        "A small local server provded by 'gulp'"
+        "A small local server provided by 'gulp'"
     ]
 }
